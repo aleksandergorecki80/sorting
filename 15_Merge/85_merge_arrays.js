@@ -5,6 +5,7 @@ console.log("Merging");
 const arr1 = [1, 1002];
 const arr2 = [2, 8, 14, 99, 101];
 
+
 const mergeTwoSortedArrays = (arr1, arr2) => {
   let results = [];
   let pointer1 = 0;
